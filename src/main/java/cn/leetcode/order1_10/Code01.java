@@ -1,12 +1,8 @@
 package cn.leetcode.order1_10;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by laoazhang on 18:29 14/08/2022
- */
 public class Code01 {
 
     public int[] twoSum(int[] nums, int target) {

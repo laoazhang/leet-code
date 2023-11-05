@@ -1,8 +1,5 @@
 package cn.leetcode.order1_10;
 
-/**
- * Created by laoazhang on 20:01 14/08/2022
- */
 
 public class Code02 {
 
